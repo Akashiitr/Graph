@@ -18,6 +18,7 @@ long long power(long long x, int y)
 }
 int main()
 {
+    int akash;
 	int t;
 	scanf("%d",&t);
 	while(t--)
